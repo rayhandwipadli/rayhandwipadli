@@ -1,16 +1,42 @@
-## Hi there 👋
+# Halo, salam kenal! 👋
 
-<!--
-**rayhandwipadli/rayhandwipadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Rayhan Dwi Padli, seorang web developer yang suka ngoding karena gabut.  
+Saat ini fokus membangun website menggunakan **Laravel, Node JS DLL**, dan sedikit-sedikit ngulik **Kotlin** buat bikin aplikasi mobile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Teknologi yang saya gunakan
+- Laravel & PHP
+- Next JS & Node JS
+- JavaScript
+- Kotlin 
+
+---
+
+## ✨ Proyek yang saya kerjakan
+🚀 **Website E-commerce Rejiku**  
+Web jualan online dengan fitur pembayaran otomatis via Midtrans dan sistem rekomendasi produk buatan sendiri.
+
+💬 **Website Portofolio Pribadi**  
+Website untuk memperlihatkan portofolio pribadi saya
+
+💖 **Website Bucin**  
+Proyek personal untuk bikin website kenangan romantis bareng pasangan. Ada galeri foto, surat cinta, countdown anniversary, dan lain-lain.
+
+📱 **Aplikasi Mobile**
+Aplikasi untuk manajemen keuangan pribadi saya yang berguna untuk mengetahui pemasukan dan pengeluaran
+
+---
+
+## 📫 Hubungi saya di
+- Instagram: [@kamu](https://instagram.com/rayhan_dwp)
+
+---
+
+## 📊 Statistik GitHub saya
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical)
+
+---
+
+> "Gabut yang berfaedah😋"  
+
