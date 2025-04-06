@@ -29,7 +29,7 @@ Aplikasi untuk manajemen keuangan pribadi saya yang berguna untuk mengetahui pem
 ---
 
 ## 📫 Hubungi saya di
-- Instagram: [@kamu](https://instagram.com/rayhan_dwp)
+- Instagram: [@rayhan_dwp](https://instagram.com/rayhan_dwp)
 
 ---
 
