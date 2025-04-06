@@ -34,7 +34,7 @@ Aplikasi untuk manajemen keuangan pribadi saya yang berguna untuk mengetahui pem
 ---
 
 ## 📊 Statistik GitHub saya
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhandwipadli&show_icons=true&theme=radical)
 
 ---
 
